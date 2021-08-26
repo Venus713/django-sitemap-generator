@@ -1,4 +1,4 @@
-django-static-sitemaps
+django-sitemap-generator
 ========================
 
 There are times when your site is too big to serve the ``sitemap.xml`` by your Django application. This little app is meant to help you with such cases. Instead of serving the sitemap.xml from Django, it features a **management command**/**celery task** that generates the ``sitemap.xml`` to the separate files.
