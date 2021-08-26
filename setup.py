@@ -22,7 +22,7 @@ setup(
     classifiers=[
         "Development Status :: 4 - Beta",
         "Intended Audience :: Developers",
-        "License :: OSI Approved :: BSD License",
+        "License :: OSI Approved :: MIT License",
         "Framework :: Django",
         "Programming Language :: Python :: 2.5",
         "Programming Language :: Python :: 2.6",

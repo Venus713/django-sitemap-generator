@@ -9,3 +9,5 @@ django_static_sitemaps.egg-info
 .vscode
 __pycache__
 testapp/db.sqlite3
+venv
+build
