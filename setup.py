@@ -2,16 +2,15 @@ from setuptools import setup
 import static_sitemaps
 
 setup(
-    name='django-static-sitemaps',
+    name='django-sitemap-generator',
     version=static_sitemaps.__versionstr__,
     description='Tool for generating sitemaps as static files',
     long_description='\n'.join((
         '',
     )),
-    author='Filip Varecha',
-    author_email='xaralis@centrum.cz',
-    license='BSD',
-    url='http://github.com/xaralis/django-static-sitemaps',
+    author='venus713',
+    author_email='userstar713@gmail.com',
+    url='https://github.com/Venus713/django-sitemap-generator',
 
     packages=(
         'static_sitemaps',
